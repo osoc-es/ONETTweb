@@ -1,0 +1,78 @@
+body{
+	/* background: #e6e6e6; */
+	background: url("/home/pabloc/Desktop/oSoc19/ONETTweb/nodo_transparencia_page-0001.jpg")!important;
+	}
+
+.titleColor{
+	color: #DB2700!important;
+	text-align: center;
+	font-size: 100px;
+}
+.orange{
+	color:#ff7b16!important;
+	/* color:#FF3E2B!important; */
+}
+.bluelinkedin{
+	color: #4875B4!important;
+}
+.bluetwitter{
+	color: #33CCFF;
+}
+.white{
+	color:#ffffff!important;
+}
+
+.gradientBg{
+	background: rgb(255,174,6);
+	background: linear-gradient(90deg, rgba(255,174,6,1) 0%, rgba(255,62,43,1) 100%);
+}
+
+.orange-bg{
+	background:#ff712c!important;
+}
+
+.videoBg{
+	background: url('./56-1080.mp4'):
+}
+
+.ralewayhead{
+	font-family: 'Raleway'!important;
+}
+
+.ralewaytext{
+	font-family: 'Roboto'!important;
+	font-size: 1rem;
+	color: #000000!important;
+}
+
+.ralewaytextbig{
+	font-family: 'Roboto'!important;
+	font-size: 2rem;
+	color: #000000!important;
+}
+
+.blackOpBg{
+	background: rgba(0,0,0,.8)!important;
+}
+.whiteTranspBg{
+	background: rgba(255, 255, 255, 0.9);
+}
+.blackText{
+	color: #000000!important;
+}
+a{
+	color: inherit!important;
+}
+.textSize{
+	font-size: 3.5!important;
+}
+.ion-icon{
+	font-size: 60px!important;
+}
+.fullsize{
+	max-height: 100%;
+	height: 100%;
+}
+body, html {
+  height: 100%;
+}
