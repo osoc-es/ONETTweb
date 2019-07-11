@@ -73,6 +73,23 @@ a{
 	max-height: 100%;
 	height: 100%;
 }
+
+.fa-1x {
+font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+cursor: pointer;
+}
+.dark-blue-text {
+color: #0A38F5;
+}
+.dark-teal-text {
+color: #004d40;
+}
+
+
+
+
 body, html {
   height: 100%;
 }
