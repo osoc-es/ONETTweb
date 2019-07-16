@@ -92,6 +92,9 @@ color: #0A38F5;
 color: #004d40;
 }
 
+.text_space{
+	padding: 2rem
+}
 
 
 .no-js #loader{display: none;}
