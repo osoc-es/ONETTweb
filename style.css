@@ -92,7 +92,7 @@ color: #004d40;
 }
 
 .text_space{
-	padding: 1.5rem
+	padding: 2rem
 }
 
 
@@ -111,4 +111,8 @@ color: #004d40;
 
 body, html {
   height: 100%;
+}
+
+.redBg{
+	background: red:
 }
